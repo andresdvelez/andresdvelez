@@ -18,7 +18,7 @@ const AndresVelez = {
     technologies: {
         frontEnd: {
             js: ["react", "redux"],
-            css: ["tailwind", "bootstrap"]
+            css: ["tailwind", "bootstrap", "sass"]
         },
         backEnd: {
             js: ["node", "express"]
