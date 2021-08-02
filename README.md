@@ -6,7 +6,7 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-avelez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-velez-su)](www.linkedin.com/in/andres-velez-su/)
 ![GitHub followers](https://img.shields.io/github/followers/andresdvelez?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=andresdvelez.andresdvelez)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+![Waka Readme](https://github.com/andresdvelez/andresdvelez/workflows/Waka%20Readme/badge.svg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
