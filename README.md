@@ -13,7 +13,7 @@
 ```javascript
 const AndresVelez = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "HTML5", "CSS", "Typescript"],
+    code: ["Javascript", "HTML5", "CSS3", "Typescript"],
     askMeAbout: ["web dev", "tech", "Design UI/UX"],
     technologies: {
         frontEnd: {
