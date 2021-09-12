@@ -36,11 +36,11 @@ const AndresVelez = {
 ---
 <!--START_SECTION:waka-->
 ```text
-JSX          7 hrs 38 mins   █████████▓░░░░░░░░░░░░░░░   38.25 % 
-CSS          5 hrs 41 mins   ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-TypeScript   4 hrs 12 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
-JavaScript   1 hr 57 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+CSS          7 hrs 12 mins   █████████░░░░░░░░░░░░░░░░   36.57 % 
+TypeScript   6 hrs 27 mins   ████████▒░░░░░░░░░░░░░░░░   32.79 % 
+JSX          4 hrs 23 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.28 % 
+JavaScript   1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 <!--END_SECTION:waka-->
 
