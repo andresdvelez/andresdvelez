@@ -36,7 +36,8 @@ const AndresVelez = {
 ---
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSON   8 mins          ██████████████░░░░░░░░░░░   56.53 % 
+CSS    6 mins          ██████████░░░░░░░░░░░░░░░   39.35 % 
 ```
 <!--END_SECTION:waka-->
 
