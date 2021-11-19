@@ -36,8 +36,9 @@ const AndresVelez = {
 ---
 <!--START_SECTION:waka-->
 ```text
-JSON   8 mins          ██████████████░░░░░░░░░░░   56.53 % 
-CSS    6 mins          ██████████░░░░░░░░░░░░░░░   39.35 % 
+JavaScript   18 mins         ██████████▓░░░░░░░░░░░░░░   42.41 % 
+JSX          13 mins         ████████░░░░░░░░░░░░░░░░░   31.89 % 
+CSS          11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.70 % 
 ```
 <!--END_SECTION:waka-->
 
