@@ -36,10 +36,11 @@ const Andres = {
 ---
 <!--START_SECTION:waka-->
 ```text
-Total: 7 hrs 14 mins
+Total: 6 hrs 1 min
 
-JavaScript   4 hrs 13 mins   ██████████████▓░░░░░░░░░░   58.23 % 
-CSS          2 hrs 59 mins   ██████████▒░░░░░░░░░░░░░░   41.36 % 
+JavaScript   3 hrs 27 mins   ██████████████▒░░░░░░░░░░   57.26 % 
+CSS          2 hrs 22 mins   █████████▓░░░░░░░░░░░░░░░   39.31 % 
+JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 ```
 <!--END_SECTION:waka-->
 
