@@ -35,10 +35,13 @@ const Andres = {
 
 ---
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   3 hrs 39 mins   ███████████████████████░░   92.64 % 
-JSON         17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+JavaScript   3 hrs 39 mins   ███████████████████████░░   92.64 %
+JSON         17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
+
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/andresdvelez/waka-readme-stats)**
