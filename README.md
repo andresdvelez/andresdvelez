@@ -37,8 +37,8 @@ const Andres = {
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 34 mins    ██████████████████████▓░░   91.12 %
-Other        5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+JavaScript   2 hrs 4 mins    █████████████████████▓░░░   86.20 %
+Other        13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
 ```
 
 <!--END_SECTION:waka-->
