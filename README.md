@@ -3,7 +3,7 @@
 <p><em>Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-avelez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-velez-su)](www.linkedin.com/in/andres-velez-su/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-avelez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-velez-su/)](https://www.linkedin.com/in/andres-velez-su/)
 ![GitHub followers](https://img.shields.io/github/followers/andresdvelez?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=andresdvelez.andresdvelez)
 ![Waka Readme](https://github.com/andresdvelez/andresdvelez/workflows/Waka%20Readme/badge.svg)
