@@ -34,8 +34,6 @@ const Andres = {
 ---
 <!--START_SECTION:waka-->
 
-![Snake animation](https://github.com/andresdvelez/andresdvelez/blob/output/github-contribution-grid-snake.svg)
-
 ```text
 JavaScript   8 hrs 25 mins   ████████████████████████▒   97.23 %
 CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
