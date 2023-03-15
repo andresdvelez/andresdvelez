@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,javascript,css,wordpress,express,styledcomponents,nextjs" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mongodb,mysql,django,html,redux,blender,arduino,linux,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,wordpress,javascript,css,html,redux,styledcomponents,arduino" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nextjs,mysql,django,vscode,blender,linux,github,figma" />
 
   </a>
 </p>
