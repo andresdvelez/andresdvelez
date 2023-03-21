@@ -39,6 +39,9 @@
 ---
 <!--START_SECTION:waka-->
 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@andresdvelez&show_icons=&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 ```text
 JavaScript   10 hrs 30 mins  ███████████████████████▓░   94.03 %
 JSON         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
