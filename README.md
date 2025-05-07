@@ -8,25 +8,6 @@
 <a href = "mailto:advelezs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://andresvelez.online/" target="_blank"><img src="https://img.shields.io/badge/-WEB-d74e09?style=for-the-badge" target="_blank"></a>
 
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2> 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,javascript,css,html,redux,styledcomponents,arduino" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nextjs,mysql,django,vscode,blender,linux,github,figma" />
-
-  </a>
-</p>
-<hr>
-
-<h4>Learning</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,nodejs" />
-  </a>
-</p>
-<hr>
-
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>
