@@ -12,7 +12,7 @@ I embed with product teams to design, build and deploy production web, mobile an
 
 <a href="https://andresvelez.co/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-andresvelez.co-d74e09?style=for-the-badge" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/andres-velez-su/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:advelezs@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:info@andresvelez.co"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 > Most of my client work lives in private repositories. The public repos here are mostly earlier learning projects.
 
