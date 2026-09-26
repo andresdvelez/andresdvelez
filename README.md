@@ -1,21 +1,27 @@
-<h2>I'm Andres Velez! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" align='center'></h2>
-<img align='right' src="https://media.giphy.com/media/6BHbKbBorP68tvJQlY/giphy.gif" width="100"></img>
-<p><em>Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" align='center'> 
-</em></p>
+<h2>Hi, I'm Andrés Vélez 👋</h2>
 
+**Forward Deployed Engineer (Full Stack)** · Medellín, Colombia · Remote
 
-<a href="https://www.linkedin.com/in/andres-velez-su/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:advelezs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://andresvelez.co/" target="_blank"><img src="https://img.shields.io/badge/-WEB-d74e09?style=for-the-badge" target="_blank"></a>
+I embed with product teams to design, build and deploy production web, mobile and AI software, end to end. 4+ years shipping for clients in Colombia, the US, Canada and Spain.
+
+- 🏗️ Co-founder of [Ganado.co](https://ganado.co), [Almara](https://almara.travel) and [Semsei](https://semsei.io); 4+ years at [Norvik Tech](https://www.norvik.tech)
+- 📱 Launched Ganado's livestock platform on iOS, Android and desktop, with offline-first sync and blockchain traceability
+- ⚡ 70%+ faster feature delivery with an AI-first workflow (Claude Code, Copilot, custom LLM agents)
+
+**Stack:** TypeScript · React · Next.js · React Native · Expo · Node.js · NestJS · Prisma · PostgreSQL · AWS · Docker · Solidity
+
+<a href="https://andresvelez.co/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-andresvelez.co-d74e09?style=for-the-badge" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/andres-velez-su/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:advelezs@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+> Most of my client work lives in private repositories. The public repos here are mostly earlier learning projects.
 
 <div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-   grid-snake.svg">
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andresdvelez/andresdvelez/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andresdvelez/andresdvelez/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/andresdvelez/andresdvelez/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 ---
