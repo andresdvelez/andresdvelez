@@ -28,11 +28,11 @@ I embed with product teams to design, build and deploy production web, mobile an
 <!--START_SECTION:waka-->
 
 ```txt
-Other        7 hrs 41 mins         ███████▒░░░░░░░░░░░░░░░░░   29.69 %
-JavaScript   5 hrs 16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.38 %
-C#           3 hrs 50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
-TypeScript   3 hrs 22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
-Markdown     2 hrs 55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+Other        6 hrs 54 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.32 %
+JavaScript   5 hrs 16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.10 %
+C#           3 hrs 50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
+Markdown     3 hrs 35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
+TypeScript   3 hrs 27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
 ```
 
 <!--END_SECTION:waka-->
